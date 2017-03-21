@@ -1,0 +1,1239 @@
+[ 2017-02-05T15:48:12+08:00 ] ::1 /ykj/index.php/Admin/admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.075004s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.077004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.231014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.233014s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-02-05T15:48:24+08:00 ] ::1 /ykj/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `ykj_admin` [ RunTime:2.0631s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.022001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.023001s ]
+
+[ 2017-02-05T15:48:25+08:00 ] ::1 /ykj/index.php/Admin/Login/verifyImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-02-05T15:49:29+08:00 ] ::1 /ykj/index.php/Admin/Login/verifyImg/0.34970708820037544
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-02-05T15:49:31+08:00 ] ::1 /ykj/index.php/Admin/Login/verifyImg/0.3648822291288525
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-02-05T15:49:32+08:00 ] ::1 /ykj/index.php/Admin/Login/verifyImg/0.669205870013684
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-02-05T15:49:44+08:00 ] ::1 /ykj/index.php/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `ykj_admin` [ RunTime:0.0440s ]
+NOTIC: [8] Undefined index: validate F:\wamp\www\ykj\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto F:\wamp\www\ykj\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `ykj_admin` WHERE `username` = '胥州' LIMIT 1   [ RunTime:0.0720s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-02-05T15:49:48+08:00 ] ::1 /ykj/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.129008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.131008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-02-05T15:49:49+08:00 ] ::1 /ykj/index.php/Admin/Index/js/libs/modernizr.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+ERR: 非法操作:js
+
+[ 2017-02-05T15:49:58+08:00 ] ::1 /ykj/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.1530s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort asc  [ RunTime:0.0700s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.111006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-02-05T15:50:10+08:00 ] ::1 /ykj/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0370s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort asc  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.068004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-02-05T15:50:16+08:00 ] ::1 /ykj/index.php/Admin/Article/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0920s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0370s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.1880s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0790s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.127007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-02-05T15:50:25+08:00 ] ::1 /ykj/index.php/Admin/Article/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.3080s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0610s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 2,2   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.071004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-02-05T18:31:42+08:00 ] ::1 /ykj/index.php/Admin/Link/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0180s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_link` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY id desc LIMIT 0,2   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.154066s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.156066s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-02-05T18:32:03+08:00 ] ::1 /ykj/index.php/Admin/Link/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0280s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.188011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.190011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-02-05T18:32:52+08:00 ] ::1 /ykj/index.php/Admin/Link/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:0.0290s ]
+NOTIC: [8] Undefined index: validate F:\wamp\www\ykj\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `ykj_link` WHERE `url` = 'http://www.baidu.com' LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `ykj_link` WHERE `title` = '百度' LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto F:\wamp\www\ykj\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `ykj_link` (`title`,`desc`,`url`) VALUES ('百度','','http://www.baidu.com') [ RunTime:0.3360s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2017-02-05T18:32:56+08:00 ] ::1 /ykj/index.php/Admin/Link/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `ykj_link` [ RunTime:1.1051s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ykj_link` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `ykj_link` ORDER BY id desc LIMIT 0,2   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.231013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.232013s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2017-02-05T19:17:34+08:00 ] ::1 /ykj/index.php/Admin/Cate/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `ykj_cate` ORDER BY sort asc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.122007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.122007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2017-02-05T19:17:37+08:00 ] ::1 /ykj/index.php/Admin/Article/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0190s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.1540s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0290s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-02-05T20:39:36+08:00 ] ::1 /ykj/index.php/Admin/Article/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0170s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.2060s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 2,2   [ RunTime:0.0730s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.149008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.149008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-02-05T20:39:46+08:00 ] ::1 /ykj/index.php/Admin/Article/lst/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0180s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 4,2   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.060003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.060003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-02-05T20:39:53+08:00 ] ::1 /ykj/index.php/Admin/Article/lst/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0190s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 6,2   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-02-05T20:41:29+08:00 ] ::1 /ykj/index.php/Admin/Article/lst/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0190s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0200s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 6,2   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-02-05T20:41:35+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0190s ]
+SQL: SELECT * FROM `ykj_cate`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.190011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.192011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-02-05T20:42:37+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0150s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\ykj\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath F:\wamp\www\ykj\Application\Admin\Controller\ArticleController.class.php 第 36 行.
+SQL: INSERT INTO `ykj_article` (`title`,`desc`,`cateid`,`content`,`time`,`pic`) VALUES ('你我她','GG','7','&lt;p&gt;hh&lt;/p&gt;','1486298556','58971dbc4a63e.jpg') [ RunTime:0.2130s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-02-05T20:42:39+08:00 ] ::1 /ykj/index.php/Admin/Article/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0180s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0160s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-02-05T20:47:13+08:00 ] ::1 /ykj/index.php/Admin/Article/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0290s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0190s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-02-05T20:48:14+08:00 ] ::1 /ykj/index.php/Admin/Article/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0340s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-02-05T20:49:11+08:00 ] ::1 /ykj/index.php/Admin/Article/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.100006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.042002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.042002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2017-02-05T20:52:00+08:00 ] ::1 /ykj/index.php/Admin/Article/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0330s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0220s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-02-05T20:53:43+08:00 ] ::1 /ykj/index.php/Admin/Article/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0170s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant time - assumed 'time' F:\wamp\www\ykj\Application\Runtime\Cache\Admin\3233ce5cce332a117b52d9b8831cbcfa.php 第 118 行.
+NOTIC: [8] Use of undefined constant time - assumed 'time' F:\wamp\www\ykj\Application\Runtime\Cache\Admin\3233ce5cce332a117b52d9b8831cbcfa.php 第 118 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.050003s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.052003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2017-02-05T20:59:45+08:00 ] ::1 /ykj/index.php/Admin/Article/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0220s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0370s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.189011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.191011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.025001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.027001s ]
+
+[ 2017-02-05T21:00:28+08:00 ] ::1 /ykj/index.php/Admin/Article/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0160s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.076005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-02-05T21:01:25+08:00 ] ::1 /ykj/index.php/Admin/Article/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0180s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0230s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-02-05T21:02:47+08:00 ] ::1 /ykj/index.php/Admin/Article/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0200s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 2,2   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-02-05T21:02:50+08:00 ] ::1 /ykj/index.php/Admin/Article/lst/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0150s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 4,2   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-02-05T21:02:52+08:00 ] ::1 /ykj/index.php/Admin/Article/lst/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0280s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0200s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 6,2   [ RunTime:0.0130s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.075004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2017-02-05T21:03:35+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.1080s ]
+SQL: SELECT * FROM `ykj_cate`  [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.607092s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.608092s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-02-05T21:04:43+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0210s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\ykj\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath F:\wamp\www\ykj\Application\Admin\Controller\ArticleController.class.php 第 36 行.
+SQL: INSERT INTO `ykj_article` (`title`,`desc`,`cateid`,`content`,`time`,`pic`) VALUES ('拓跋俊','哈哈','8','&lt;p&gt;框架&lt;/p&gt;','1486299882','589722ea77853.jpg') [ RunTime:0.0270s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+
+[ 2017-02-05T21:04:45+08:00 ] ::1 /ykj/index.php/Admin/Article/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0170s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-02-05T22:19:01+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.302017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.303017s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0150s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0450s ]
+SQL: SELECT * FROM `ykj_cate`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.875107s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.877107s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.025002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.026002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.033002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.033002s ]
+
+[ 2017-02-05T22:19:03+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `ykj_cate`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.614092s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.615092s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-02-05T22:19:05+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0320s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `ykj_cate`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-02-05T22:19:06+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0160s ]
+SQL: SELECT * FROM `ykj_cate`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-02-05T22:20:17+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0190s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\ykj\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath F:\wamp\www\ykj\Application\Admin\Controller\ArticleController.class.php 第 36 行.
+SQL: INSERT INTO `ykj_article` (`title`,`desc`,`cateid`,`content`,`time`,`pic`) VALUES ('疯狂原始人','哈哈','7','&lt;p&gt;看看&lt;/p&gt;','1486304416','589734a054715.jpg') [ RunTime:0.3700s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.132007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.134008s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2017-02-05T22:20:20+08:00 ] ::1 /ykj/index.php/Admin/Article/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0170s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0190s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.1780s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0230s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.151009s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.153009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+
+[ 2017-02-05T22:35:53+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `ykj_cate`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-02-05T22:35:57+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `ykj_cate`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005001s ]
+
+[ 2017-02-05T22:36:23+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0170s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\ykj\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath F:\wamp\www\ykj\Application\Admin\Controller\ArticleController.class.php 第 36 行.
+ERR: 不存在的图像文件
+
+[ 2017-02-05T22:38:55+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0170s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\ykj\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath F:\wamp\www\ykj\Application\Admin\Controller\ArticleController.class.php 第 36 行.
+ERR: 不存在的图像文件
+
+[ 2017-02-05T22:51:24+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-02-05T22:53:00+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+
+[ 2017-02-05T22:53:32+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0160s ]
+NOTIC: [8] Undefined index: validate F:\wamp\www\ykj\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto F:\wamp\www\ykj\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+ERR: 不存在的图像文件
+
+[ 2017-02-05T22:54:28+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011001s ]
+
+[ 2017-02-05T22:54:42+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0150s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\ykj\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath F:\wamp\www\ykj\Application\Admin\Controller\ArticleController.class.php 第 35 行.
+ERR: 不存在的图像文件
+
+[ 2017-02-05T22:55:47+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0310s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\ykj\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath F:\wamp\www\ykj\Application\Admin\Controller\ArticleController.class.php 第 35 行.
+SQL: INSERT INTO `ykj_article` (`title`,`desc`,`cateid`,`content`,`time`,`pic`) VALUES ('ta','kk','10','&lt;p&gt;ll&lt;/p&gt;','1486306547','58973cf32c212.jpg') [ RunTime:0.0990s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016001s ]
+
+[ 2017-02-05T22:55:49+08:00 ] ::1 /ykj/index.php/Admin/Article/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0190s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0560s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.178010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.180010s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-02-05T22:59:51+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0290s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0220s ]
+SQL: SELECT * FROM `ykj_cate`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.378021s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.379021s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.019001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.038002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.041002s ]
+
+[ 2017-02-05T23:00:36+08:00 ] ::1 /ykj/index.php/Admin/Article/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0220s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given F:\wamp\www\ykj\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: savePath F:\wamp\www\ykj\Application\Admin\Controller\ArticleController.class.php 第 35 行.
+SQL: INSERT INTO `ykj_article` (`title`,`desc`,`cateid`,`content`,`time`,`pic`) VALUES ('jj','kk','6','&lt;p&gt;kkkk&lt;/p&gt;','1486306835','58973e13e976f.png') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.085005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+
+[ 2017-02-05T23:00:38+08:00 ] ::1 /ykj/index.php/Admin/Article/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `ykj_article` [ RunTime:0.0160s ]
+SQL: SHOW COLUMNS FROM `ykj_cate` [ RunTime:0.0180s ]
+SQL: SELECT COUNT(*) AS tp_count FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT article.time AS time,article.id AS id,article.title AS title,article.pic AS pic,cate.catename AS catename FROM ykj_article article LEFT JOIN ykj_cate cate ON Article.cateid=Cate.id ORDER BY article.id desc LIMIT 0,2   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.081005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
